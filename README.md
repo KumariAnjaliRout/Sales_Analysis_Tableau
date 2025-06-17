@@ -1,7 +1,5 @@
 # Sales_Analysis_Tableau
 
-[Click here to view Tableau Analysis PDF](Retail_Sales_Analysis_Dashboard.pdf)
-
  Dashboard Summary: Retail Sales Analysis (Tableau + Excel)
 This project presents a full Tableau dashboard based on a retail sales dataset consisting of 50,000+ transactions. The goal was to visualize sales performance, product demand, and shipping trends through multiple charts and interactive visuals. Below is an overview of all five charts:
 

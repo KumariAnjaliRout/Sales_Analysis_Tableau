@@ -1,19 +1,36 @@
-# Sales_Analysis_Tableau
+# 📊 Retail Sales Dashboard (Tableau + Excel)
 
- Dashboard Summary: Retail Sales Analysis (Tableau + Excel)
-This project presents a full Tableau dashboard based on a retail sales dataset consisting of 50,000+ transactions. The goal was to visualize sales performance, product demand, and shipping trends through multiple charts and interactive visuals. Below is an overview of all five charts:
+This project presents an interactive sales performance analysis using Tableau and Excel. The dataset contains over 50,000+ rows of retail transactions. The goal was to uncover business insights through intuitive visualizations.
 
- 1. Donut Chart – Sales Distribution by Ship Mode
-Visualizes the percentage contribution of each ship mode (Standard Class, Second Class, First Class, Same Day) to total sales. This helps identify customer preferences and shipping performance.
+## 📁 Dataset
+The dataset includes:
+- Order details: Order Date, Ship Mode, Product Name, Category, Sub-Category
+- Customer & Region information
+- Sales revenue
 
- 2. Tree Map – Category-wise Sales Contribution
-Shows how product categories like Technology, Furniture, and Office Supplies perform in terms of sales, with further breakdown into sub-categories. This helps understand which products drive the most revenue.
+## 📊 Visualizations Included
+1. **Donut Chart** – Ship Mode percentage share  
+2. **Tree Map** – Category and Sub-Category sales breakdown  
+3. **Line Chart** – Monthly sales trend  
+4. **Bar Chart** – Sales by Region  
+5. **Horizontal Bar Chart** – Top-selling Products  
 
- 3. Line Chart – Sales Trend Over Time
-Displays sales performance over time (monthly). It reveals seasonal patterns, peak months, and sales dips — helpful for understanding trends and planning marketing or inventory.
+## 📄 Output
+Click below to view the dashboard (PDF format):  
+👉 [Retail Dashboard (PDF)](https://public.tableau.com/app/profile/kumari.anjali5299/viz/RetailSalesAnalysisDashboard_17502312473060/RetailSalesAnalysisDashboard)
 
- 4. Bar Chart – Sales by Region
-Illustrates total sales across different regions (Central, East, West, South), making it easy to identify high-performing regions and those with lower contributions.
+## 🔧 Tools Used
+- **Tableau Desktop** (for visualizations)
+- **Microsoft Excel** (for data cleaning & filtering)
+
+## 💡 Key Insights
+- Standard shipping accounted for the highest order volume
+- Technology and Office Supplies are the most profitable categories
+- Sales peaked in November and December
+- The Western region had the highest revenue contribution
+
+## 👩‍💻 Created by:
+**Kumari Anjali** – Aspiring Data Analyst | Tableau & Python Enthusiast
 
  5. Horizontal Bar Chart – Top 10 Products by Sales
 Ranks the top-selling products based on total sales revenue. This gives a quick view of what items are driving the business forward.
